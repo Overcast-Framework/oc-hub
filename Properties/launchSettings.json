@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "oc-hub": {
+      "commandName": "Project",
+      "commandLineArgs": "install"
+    }
+  }
+}

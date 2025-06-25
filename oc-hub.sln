@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oc-hub", "oc-hub.csproj", "{8037D2A3-D45A-40EE-8CDF-E5EC3FFDA274}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8037D2A3-D45A-40EE-8CDF-E5EC3FFDA274}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8037D2A3-D45A-40EE-8CDF-E5EC3FFDA274}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8037D2A3-D45A-40EE-8CDF-E5EC3FFDA274}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8037D2A3-D45A-40EE-8CDF-E5EC3FFDA274}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CB684BD-B5C5-47BA-A2A2-9DB94EB7EC4F}
+	EndGlobalSection
+EndGlobal
